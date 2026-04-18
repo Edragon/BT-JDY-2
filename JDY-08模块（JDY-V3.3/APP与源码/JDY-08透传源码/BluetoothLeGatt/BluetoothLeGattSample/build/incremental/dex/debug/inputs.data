@@ -1,0 +1,32 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1388327642076 683 97c28cd013259d7a5184ff0924c3a28f9a679018 D:\Android\Porject\BluetoothLeGatt\BluetoothLeGattSample\build\classes\debug\com\example\android\bluetoothlegatt\R$dimen.class
+1388384447409 1094 e916af145315d30ffd1545d69110ddfacf87356f D:\Android\Porject\BluetoothLeGatt\BluetoothLeGattSample\build\classes\debug\com\example\android\bluetoothlegatt\R$string.class
+1388333735144 3163 81cfce74dd403b937dc6546112d424f8f5bb01a0 D:\Android\Porject\BluetoothLeGatt\BluetoothLeGattSample\build\classes\debug\com\example\android\bluetoothlegatt\BluetoothLeService$1.class
+1388327642076 391 0afc53ebe7926c31085cb80d0c69ac5cc55d8d13 D:\Android\Porject\BluetoothLeGatt\BluetoothLeGattSample\build\classes\debug\com\example\android\bluetoothlegatt\R$attr.class
+1388327642077 486 b38f240dbfa710a4ac39bc48cf7c1c2a091529fb D:\Android\Porject\BluetoothLeGatt\BluetoothLeGattSample\build\classes\debug\com\example\android\bluetoothlegatt\R$drawable.class
+1388327642062 1366 9de3cd57874dfc2ef4f1e167544277c8068f4d00 D:\Android\Porject\BluetoothLeGatt\BluetoothLeGattSample\build\classes\debug\com\example\android\bluetoothlegatt\DeviceScanActivity$1.class
+1388388529622 2398 39652f9793e70e84ae917877612a4a01d21fe439 D:\Android\Porject\BluetoothLeGatt\BluetoothLeGattSample\build\classes\debug\com\example\android\bluetoothlegatt\DeviceControlActivity$3$1.class
+1388384447367 2112 715209732aea276956d4ba9250f6890b2c317e67 D:\Android\Porject\BluetoothLeGatt\BluetoothLeGattSample\build\classes\debug\com\example\android\bluetoothlegatt\DeviceControlActivity$1.class
+1388327642066 550 0f13441938baf85b1b267495bdd67c44ac2be04b D:\Android\Porject\BluetoothLeGatt\BluetoothLeGattSample\build\classes\debug\com\example\android\bluetoothlegatt\DeviceScanActivity$ViewHolder.class
+1388388529625 998 7ff489abe39128ea09a7aebb9678b56f13f378aa D:\Android\Porject\BluetoothLeGatt\BluetoothLeGattSample\build\classes\debug\com\example\android\bluetoothlegatt\DeviceControlActivity$4.class
+1388384447368 2336 6bafc94b07db0752dcf17bdc5600599041f1675a D:\Android\Porject\BluetoothLeGatt\BluetoothLeGattSample\build\classes\debug\com\example\android\bluetoothlegatt\DeviceControlActivity$2.class
+1388388529623 1047 b361b87550141cdaefa66a73c8ed6c92f0e21618 D:\Android\Porject\BluetoothLeGatt\BluetoothLeGattSample\build\classes\debug\com\example\android\bluetoothlegatt\DeviceControlActivity$3$2.class
+1388327642083 500 b5a0c198cec4b6fefc3297a8607925669f717198 D:\Android\Porject\BluetoothLeGatt\BluetoothLeGattSample\build\classes\debug\com\example\android\bluetoothlegatt\BuildConfig.class
+1388384447409 476 4f3d02b6bcf7fb6c0c550e128afa67150a96f5d1 D:\Android\Porject\BluetoothLeGatt\BluetoothLeGattSample\build\classes\debug\com\example\android\bluetoothlegatt\R$menu.class
+1388333735145 769 1e748e9fceb420f4fe227b5001f0c43072363f38 D:\Android\Porject\BluetoothLeGatt\BluetoothLeGattSample\build\classes\debug\com\example\android\bluetoothlegatt\BluetoothLeService$LocalBinder.class
+1383177888000 563264 44ec51e9d395a47aab135e5e1b556c0007442156 C:\Program Files\android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar
+1388388529625 4018 fed9f30129854989f2641a9f1012f70b5c1c9b2e D:\Android\Porject\BluetoothLeGatt\BluetoothLeGattSample\build\classes\debug\com\example\android\bluetoothlegatt\DeviceControlActivity$3.class
+1388384447400 6431 8cb3dab71db110ab92ec18b76f50f90b269df937 D:\Android\Porject\BluetoothLeGatt\BluetoothLeGattSample\build\classes\debug\com\example\android\bluetoothlegatt\DeviceScanActivity.class
+1388384447408 908 c06a816a6d8cbfe6a4eb9bef1bbad21b28a607e2 D:\Android\Porject\BluetoothLeGatt\BluetoothLeGattSample\build\classes\debug\com\example\android\bluetoothlegatt\R$id.class
+1383177888000 17493 6a2fa0c0b54359ee359fd40244e1ce2dc6cab408 C:\Program Files\android\sdk\extras\android\m2repository\com\android\support\support-v13\18.0.0\support-v13-18.0.0.jar
+1388384447408 632 8486ac218d75184fd861ce0da14a63e468e42411 D:\Android\Porject\BluetoothLeGatt\BluetoothLeGattSample\build\classes\debug\com\example\android\bluetoothlegatt\R$layout.class
+1388384447412 847 4ffc45f0e27c47945a528489af4e2a6efa8c7e06 D:\Android\Porject\BluetoothLeGatt\BluetoothLeGattSample\build\classes\debug\com\example\android\bluetoothlegatt\R.class
+1388327642073 1486 b46d2a43c98212b217ec654ea00a7dbb0ac69973 D:\Android\Porject\BluetoothLeGatt\BluetoothLeGattSample\build\classes\debug\com\example\android\bluetoothlegatt\SampleGattAttributes.class
+1388384447394 3121 052d03098f693e843a1eb40f1eafbac4ca1675dc D:\Android\Porject\BluetoothLeGatt\BluetoothLeGattSample\build\classes\debug\com\example\android\bluetoothlegatt\DeviceScanActivity$LeDeviceListAdapter.class
+1388327642065 1448 c737e3955bb72f0b2bc21ef9c17396c30bb0de48 D:\Android\Porject\BluetoothLeGatt\BluetoothLeGattSample\build\classes\debug\com\example\android\bluetoothlegatt\DeviceScanActivity$2$1.class
+1388333735153 8437 9dc01ffec895982fdf7b5c349cfc27e6ca813283 D:\Android\Porject\BluetoothLeGatt\BluetoothLeGattSample\build\classes\debug\com\example\android\bluetoothlegatt\BluetoothLeService.class
+1388327642066 1223 c0e1163ca238b309cbd60a374b4c06963fd6e490 D:\Android\Porject\BluetoothLeGatt\BluetoothLeGattSample\build\classes\debug\com\example\android\bluetoothlegatt\DeviceScanActivity$2.class
+1388388529632 12350 46f9e2c59a2a01c124d06e9c2df4ee04bf37050b D:\Android\Porject\BluetoothLeGatt\BluetoothLeGattSample\build\classes\debug\com\example\android\bluetoothlegatt\DeviceControlActivity.class
+1388384447410 638 dc3f737e4e57f8d3288175450dbae08af43dde56 D:\Android\Porject\BluetoothLeGatt\BluetoothLeGattSample\build\classes\debug\com\example\android\bluetoothlegatt\R$style.class

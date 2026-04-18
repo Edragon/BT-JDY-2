@@ -1,0 +1,17 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1388327584880 5712 0e65f6bc945357cdbd346935e17090fa429b2db2 D:\Android\Porject\BluetoothLeGatt\BluetoothLeGattSample\build\res\all\debug\drawable-xhdpi\ic_launcher.png
+1388327584967 9611 f59a3845dce108fef1198934f4ac3bf70058d2b5 D:\Android\Porject\BluetoothLeGatt\BluetoothLeGattSample\build\res\all\debug\drawable-xxhdpi\ic_launcher.png
+1388327584806 1383 eca0d18efd1020ee7fcbc15a73ce06ff3d3029a2 D:\Android\Porject\BluetoothLeGatt\BluetoothLeGattSample\build\res\all\debug\layout\listitem_device.xml
+1388327584856 3520 2ad7162f28a0ce83a76207981276c0d09b6b9ea0 D:\Android\Porject\BluetoothLeGatt\BluetoothLeGattSample\build\res\all\debug\layout\gatt_services_characteristics.xml
+1388327584872 198 4fed16b1f6feb91635cd0dbfab111445825e3086 D:\Android\Porject\BluetoothLeGatt\BluetoothLeGattSample\build\res\all\debug\drawable-hdpi\tile.9.png
+1388327584806 1076 f166e0dfb7d88f7e64763678e8a5c5c3317ad928 D:\Android\Porject\BluetoothLeGatt\BluetoothLeGattSample\build\res\all\debug\layout\actionbar_indeterminate_progress.xml
+1388327584811 3218 2367b9301d02b92cca9126fa12f377038b37db50 D:\Android\Porject\BluetoothLeGatt\BluetoothLeGattSample\build\res\all\debug\values\values.xml
+1388327584850 2541 61e3f5a783c90215db681ae237d66767a7301b97 D:\Android\Porject\BluetoothLeGatt\BluetoothLeGattSample\build\res\all\debug\drawable-mdpi\ic_launcher.png
+1388327584851 4186 2c641d29919fccd28bed22947eb077059ecce8c7 D:\Android\Porject\BluetoothLeGatt\BluetoothLeGattSample\build\res\all\debug\drawable-hdpi\ic_launcher.png
+1388327584817 766 7d162ead617dcb13291e84172539ca8141d1361d D:\Android\Porject\BluetoothLeGatt\BluetoothLeGattSample\build\res\all\debug\values-sw600dp\values.xml
+1388327584806 1378 77376fb6e5bd5c20d25d69f3c821a00680cdf610 D:\Android\Porject\BluetoothLeGatt\BluetoothLeGattSample\build\res\all\debug\menu\gatt_services.xml
+1388327584810 1645 a94797804286417804a7559d4f9eb3a263622a28 D:\Android\Porject\BluetoothLeGatt\BluetoothLeGattSample\build\res\all\debug\layout\activity_main.xml
+1388327584808 1351 10d6eaccb09ce688d629fe4b9bb78edd198dc4f4 D:\Android\Porject\BluetoothLeGatt\BluetoothLeGattSample\build\res\all\debug\menu\main.xml
+1388384446258 1060 235fb408328798d1d00ecec0ef32a41f34cfa5fa D:\Android\Porject\BluetoothLeGatt\BluetoothLeGattSample\build\res\all\debug\layout\dialog.xml
